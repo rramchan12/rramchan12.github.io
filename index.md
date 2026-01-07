@@ -27,7 +27,7 @@ description: "Director of Engineering | Large-Scale AI & Cloud Platforms"
   </div>
 </div>
 
-## About Me
+## About Me {#about}
 
 Think of me as an architect who doesn't just design buildings—I design entire cities of code, orchestrate symphonies of microservices, and lead expeditions into uncharted technological territories. For over two decades, I've been at the intersection of ambition and execution, turning abstract possibilities into concrete realities that millions of people use every day.
 
@@ -53,7 +53,7 @@ Today, as I lead Microsoft Azure's AI model platform while pursuing research in 
 
 ---
 
-## Skill Matrix
+## Skill Matrix {#skills}
 
 **Cloud & Multi-Cloud**  
 Azure, GCP, AWS, Multi-Cloud Architecture, Fault Tolerance, Auto-Scaling, Continuous Monitoring
@@ -90,7 +90,7 @@ Java, Python, Node.js, Scala
 
 ---
 
-## Professional Journey
+## Professional Journey {#experience}
 
 ### Microsoft Azure AI | 2024 - Present
 **Director of Engineering – Azure AI Platform (IDC Site Lead)**
@@ -477,3 +477,28 @@ This isn't just academic research—it's about making social media platforms saf
   <p><em>"And it's even better when it brings them together fairly, safely, and intelligently."</em></p>
   <p>– My personal addendum</p>
 </div>
+
+---
+
+## Contact {#contact}
+
+### Let's Connect
+
+Whether you're interested in discussing AI platforms, exploring collaboration opportunities, or simply want to talk about technology's role in creating a more equitable future—I'd love to hear from you.
+
+**Email:** [ravi.ramchandran01@gmail.com](mailto:ravi.ramchandran01@gmail.com)  
+**Phone:** [+91.9449720790](tel:+919449720790)  
+**LinkedIn:** [linkedin.com/in/raviramchandran](https://www.linkedin.com/in/raviramchandran/)  
+**GitHub:** [github.com/rramchan12](https://github.com/rramchan12)
+
+### Open To
+
+- **Speaking Engagements:** AI/ML platforms, leadership in tech, building teams from scratch
+- **Advisory Roles:** Startups in AI, education technology, cloud platforms
+- **Research Collaboration:** Fairness in AI, ethical NLP systems, educational AI
+- **Mentorship:** Engineering leaders, architects, aspiring technologists
+
+### Current Location
+
+Bangalore, Karnataka, India  
+*Available for remote collaboration globally*
