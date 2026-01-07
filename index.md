@@ -18,6 +18,28 @@ description: "Senior Engineering Leader | Hands-on Technocrat"
   </div>
 </div>
 
+## 🔬 Research Interests
+
+My research focuses on **AI-driven content moderation** and **fairness-aware NLP systems**, particularly in the domain of automated hate speech detection on social media platforms. I'm exploring novel approaches that integrate persona-based and policy-based techniques using Large Language Models (LLMs) to address the limitations of traditional ML methods in detecting implicit, coded, and context-dependent hate speech.
+
+### Current Research: Hate Speech Detection Using LLMs
+
+I'm developing a unified framework that combines **Instruction Fine-Tuning (IFT)** and **Supervised Fine-Tuning (SFT)** with LoRA for parameter-efficient model adaptation. My work specifically addresses fairness across high-prevalence demographic groups (LGBTQ+, Mexican, and Middle East communities) using curated benchmark datasets (HateXplain and ToxiGen).
+
+**Key Research Contributions:**
+- **Modular Prompt Validation Framework** for systematic evaluation of baseline, persona-based, policy-based, and hybrid prompt strategies
+- **SFT on GPT-OSS-20B** achieving F1-score of 0.669 with superior generalization for real-world deployment
+- **Fairness-aware methodology** with stratified evaluation across demographic groups to mitigate bias
+- **Reproducible experimental design** with strictly held-out test sets to ensure unbiased evaluation
+
+**Research Resources:**
+- 📁 [GitHub Repository](https://github.com/rramchan12/HateSpeechDetection_ver2) - Complete implementation and experimental framework
+- 🎥 [Research Presentation](https://www.youtube.com/watch?v=as4R0HoSrik) - Video overview of methodology and results
+
+This research advances scalable, ethical AI-driven content moderation by providing data-driven methodologies for integrating persona and policy signals within LLM systems, offering a path forward for fair and effective hate speech detection on social media platforms.
+
+---
+
 ## 🏆 Technical Impact
 
 <div class="achievement-grid">
