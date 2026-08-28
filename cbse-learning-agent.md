@@ -284,7 +284,7 @@ Ready to experience the future of learning?
 
 ## About the Creator
 
-This project represents my belief that the most impactful technology isn't the most complex—it's the kind that genuinely improves lives. As someone who leads AI platforms at global scale during the day and builds educational tools at night, I'm driven by a simple principle: **technology should serve humanity equitably.**
+This project represents my belief that the most impactful technology isn't the most complex—it's the kind that genuinely improves lives. As an engineering leader working on enterprise administration, AI-assisted operations, and cloud-scale platforms, I'm driven by a simple principle: **technology should serve humanity equitably.**
 
 Education shaped my life. This is my way of giving back.
 
