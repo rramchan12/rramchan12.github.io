@@ -380,6 +380,36 @@ a:focus-visible,
   margin: 0;
 }
 
+table {
+  width: 100%;
+  margin: 2rem 0;
+  border-collapse: collapse;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  overflow: hidden;
+}
+
+th,
+td {
+  padding: 1rem;
+  color: var(--text-secondary);
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border-color);
+}
+
+th {
+  color: var(--primary-color);
+  background: var(--bg-dark);
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+}
+
+tr:last-child td {
+  border-bottom: 0;
+}
+
 .proof-card {
   display: flex;
   flex-direction: column;
@@ -672,5 +702,10 @@ a:focus-visible,
   .placeholder-panel {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
   }
 }

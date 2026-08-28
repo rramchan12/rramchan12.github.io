@@ -26,7 +26,7 @@ description: "Engineering Executive | Enterprise AI Agents, Platform Strategy an
 - Connected product strategy, architecture, organizational design, and production accountability to move initiatives from concept to scaled operation.
 - Established reusable mechanisms for automation, evaluation, governance, observability, operational health, and production readiness.
 
-> Public corroboration for quantified outcomes will be expanded in Phase 2 through direct links to relevant public sources and LinkedIn posts. Existing patent and research evidence is linked below.
+> The figures above are career-reported outcomes. The public evidence below verifies authorship, technical depth, research, patents, agent-system implementation, and external speaking; it does not independently verify every business metric.
 {: .evidence-note}
 
 ---
@@ -119,6 +119,8 @@ Progressive roles across enterprise architecture, engineering management, ERP pl
 
 ## Proof of Work {#proof}
 
+Publicly accessible evidence is grouped by what it substantiates. Patent records and third-party-hosted speaking provide independent corroboration; repositories, articles, and demonstrations provide inspectable first-party technical evidence.
+
 <div class="proof-grid">
   <article class="proof-card">
     <span class="proof-type">Research repository</span>
@@ -129,34 +131,56 @@ Progressive roles across enterprise architecture, engineering management, ERP pl
   <article class="proof-card">
     <span class="proof-type">Research implementation</span>
     <h3>Fairness-Aware Hate Speech Detection</h3>
-    <p>Code, datasets, evaluation, prompt experiments, and parameter-efficient fine-tuning for persona- and policy-aware detection.</p>
+    <p>Public thesis implementation with a 5,151-sample unified benchmark dataset, reusable prompt suite, LoRA/QLoRA fine-tuning framework, tests, and fairness-aware evaluation.</p>
     <a href="https://github.com/rramchan12/HateSpeechDetection_ver2" target="_blank" rel="noopener noreferrer">View implementation <span aria-hidden="true">→</span></a>
   </article>
   <article class="proof-card">
     <span class="proof-type">Research presentation</span>
-    <h3>Research Walkthrough</h3>
+    <h3>Hate Speech Detection Using LLMs</h3>
     <p>A recorded presentation covering the research motivation, methodology, evaluation, and findings.</p>
-    <a href="https://youtu.be/as4R0HoSrik?si=VPyML1CuYaDjfKRG" target="_blank" rel="noopener noreferrer">Watch on YouTube <span aria-hidden="true">→</span></a>
+    <a href="https://www.youtube.com/watch?v=as4R0HoSrik" target="_blank" rel="noopener noreferrer">Watch on YouTube <span aria-hidden="true">→</span></a>
   </article>
   <article class="proof-card">
-    <span class="proof-type">US Patent</span>
+    <span class="proof-type">Independent patent record</span>
     <h3>Business Process Monitoring</h3>
-    <p>System and Method for Business Process Monitoring · US11340906B2.</p>
+    <p>Ravi Ramchandran is listed as inventor on active US patent US11340906B2, granted in 2022, for non-invasive monitoring of data pipelines.</p>
     <a href="https://patents.google.com/patent/US11340906B2/en" target="_blank" rel="noopener noreferrer">View patent <span aria-hidden="true">→</span></a>
   </article>
   <article class="proof-card">
-    <span class="proof-type">US Patent</span>
+    <span class="proof-type">Independent patent record</span>
     <h3>Continuous Data Quality Assessment</h3>
-    <p>Continuous Data Quality Assessment and Monitoring for Big Data · US11587012B2.</p>
+    <p>Ravi Ramchandran is listed as inventor on active US patent US11587012B2, granted in 2023, covering hierarchical assessment and monitoring of enterprise data quality.</p>
     <a href="https://patents.google.com/patent/US11587012B2/en" target="_blank" rel="noopener noreferrer">View patent <span aria-hidden="true">→</span></a>
   </article>
-  <article class="proof-card placeholder-card">
-    <span class="proof-type">Articles & talks</span>
-    <h3>Publications and Speaking</h3>
-    <p>Direct links to selected articles, conference sessions, webinars, podcasts, and transcripts will be added here.</p>
-    <span class="placeholder-label"><i class="fas fa-link" aria-hidden="true"></i> URLs forthcoming</span>
+  <article class="proof-card">
+    <span class="proof-type">Article & working demonstration</span>
+    <h3>Learning Agent Orchestration by Building It</h3>
+    <p>A YAML-driven multi-agent system using Python, isolated Git worktrees, JSON state, and focused worker context. The published demonstration generated 21 tests in about 40 seconds.</p>
+    <a href="https://www.linkedin.com/pulse/how-i-built-mini-gas-town-learn-agent-orchestration-ravi-ramchandran-czm9c" target="_blank" rel="noopener noreferrer">Read the LinkedIn article <span aria-hidden="true">→</span></a>
+  </article>
+  <article class="proof-card">
+    <span class="proof-type">Third-party hosted podcast</span>
+    <h3>Enterprise AI Field Notes: Agents at Work</h3>
+    <p>A practical discussion and demonstration covering enterprise-agent workflows, guardrails, accountability, shadow experimentation, and responsible innovation.</p>
+    <a href="https://www.youtube.com/watch?v=swmjPx4eAeU" target="_blank" rel="noopener noreferrer">Watch episode 8 <span aria-hidden="true">→</span></a>
+  </article>
+  <article class="proof-card">
+    <span class="proof-type">Public LinkedIn post</span>
+    <h3>Enterprise Agents Beyond the Demo</h3>
+    <p>Source post connecting the podcast to practical enterprise concerns: operating boundaries, guardrails, routine workflows, and accountable automation.</p>
+    <a href="https://www.linkedin.com/posts/raviramchandran_llms-practicalai-agents-activity-7437090384524165120-UAhH" target="_blank" rel="noopener noreferrer">View the post <span aria-hidden="true">→</span></a>
   </article>
 </div>
+
+### Evidence map
+
+| Leadership signal | Public evidence | Evidence strength |
+| --- | --- | --- |
+| Enterprise agents and governed execution | Third-party-hosted podcast, LinkedIn post, and practical demonstration | Public and role-relevant |
+| Hands-on agent orchestration | Published article describing a working YAML/Python/Git implementation | Inspectable first-party evidence |
+| AI research and evaluation | Public repositories, benchmark dataset, implementation, tests, and recorded presentation | Inspectable first-party evidence |
+| Enterprise observability and data quality | Two active US patent records naming Ravi Ramchandran as inventor | Independent public record |
+| Quantified organizational and business outcomes | Résumé and career narrative | Career-reported; independent links still required |
 
 <div class="resume-placeholder" role="note" aria-label="Downloadable resume placeholder">
   <div>
@@ -178,7 +202,7 @@ Research in fairness-aware, persona-based, and policy-based hate-speech detectio
 
 - [ML & AI research repository](https://github.com/rramchan12/LJMU_MLAI_RR)
 - [Hate Speech Detection implementation](https://github.com/rramchan12/HateSpeechDetection_ver2)
-- [Recorded research presentation](https://youtu.be/as4R0HoSrik?si=VPyML1CuYaDjfKRG)
+- [Recorded research presentation](https://www.youtube.com/watch?v=as4R0HoSrik)
 
 Additional education includes the Executive Management Programme at IIM Bangalore, a postgraduate diploma in ML and AI from IIIT Bangalore, a postgraduate diploma in business administration from ICFAI University, and a bachelor’s degree from Nirma Institute of Technology.
 
@@ -198,13 +222,15 @@ Additional education includes the Executive Management Programme at IIM Bangalor
 - Enterprise administration as an AI-native operating system
 - Fairness-aware evaluation of large language models
 
-<div class="placeholder-panel">
+<div class="placeholder-panel evidence-panel">
   <i class="fas fa-microphone-lines" aria-hidden="true"></i>
   <div>
-    <strong>Article and talk links</strong>
-    <p>Placeholder for selected public articles, recordings, transcripts, event pages, and speaker materials.</p>
+    <strong>Featured public session</strong>
+    <p><a href="https://www.youtube.com/watch?v=swmjPx4eAeU" target="_blank" rel="noopener noreferrer">Enterprise AI Field Notes: Agents at Work, Live Demo, Guardrails + Responsible Innovation</a> · Episode 8, hosted by Srinivas Annamaraju.</p>
   </div>
 </div>
+
+Additional conference sessions, event pages, and transcripts will be linked as they become publicly available.
 
 ---
 
